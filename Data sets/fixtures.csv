@@ -1,0 +1,381 @@
+week,Day,Date,Time,Home,HomeScore,Away,AwayScore,Attendance,Venue,Referee
+1,Fri,8/16/2024,20:00,Manchester Utd,1,Fulham,0,73297,Old Trafford,Robert Jones
+1,Sat,8/17/2024,12:30,Ipswich Town,0,Liverpool,2,30014,Portman Road Stadium,Tim Robinson
+1,Sat,8/17/2024,15:00,Newcastle Utd,1,Southampton,0,52196,St James' Park,Craig Pawson
+1,Sat,8/17/2024,15:00,Everton,0,Brighton,3,39217,Goodison Park,Simon Hooper
+1,Sat,8/17/2024,15:00,Nott'ham Forest,1,Bournemouth,1,29763,The City Ground,Michael Oliver
+1,Sat,8/17/2024,15:00,Arsenal,2,Wolves,0,60261,Emirates Stadium,Jarred Gillett
+1,Sat,8/17/2024,17:30,West Ham,1,Aston Villa,2,62463,London Stadium,Tony Harrington
+1,Sun,8/18/2024,14:00,Brentford,2,Crystal Palace,1,16988,Gtech Community Stadium,Samuel Barrott
+1,Sun,8/18/2024,16:30,Chelsea,0,Manchester City,2,39818,Stamford Bridge,Anthony Taylor
+1,Mon,8/19/2024,20:00,Leicester City,1,Tottenham,1,31977,King Power Stadium,Chris Kavanagh
+2,Sat,8/24/2024,12:30,Brighton,2,Manchester Utd,1,31537,The American Express Stadium,Craig Pawson
+2,Sat,8/24/2024,15:00,Manchester City,4,Ipswich Town,1,53147,Etihad Stadium,Samuel Allison
+2,Sat,8/24/2024,15:00,Southampton,0,Nott'ham Forest,1,31150,St Mary's Stadium,Samuel Barrott
+2,Sat,8/24/2024,15:00,Tottenham,4,Everton,0,61357,Tottenham Hotspur Stadium,Anthony Taylor
+2,Sat,8/24/2024,15:00,Fulham,2,Leicester City,1,25401,Craven Cottage,Darren Bond
+2,Sat,8/24/2024,15:00,Crystal Palace,0,West Ham,2,25099,Selhurst Park,Robert Jones
+2,Sat,8/24/2024,17:30,Aston Villa,0,Arsenal,2,41587,Villa Park,Michael Oliver
+2,Sun,8/25/2024,14:00,Wolves,2,Chelsea,6,31235,Molineux Stadium,Darren England
+2,Sun,8/25/2024,14:00,Bournemouth,1,Newcastle Utd,1,11161,Vitality Stadium,David Coote
+2,Sun,8/25/2024,16:30,Liverpool,2,Brentford,0,60017,Anfield,Stuart Attwell
+3,Sat,8/31/2024,12:30,Arsenal,1,Brighton,1,60326,Emirates Stadium,Chris Kavanagh
+3,Sat,8/31/2024,15:00,Ipswich Town,1,Fulham,1,29517,Portman Road Stadium,Lewis Smith
+3,Sat,8/31/2024,15:00,Nott'ham Forest,1,Wolves,1,29918,The City Ground,Simon Hooper
+3,Sat,8/31/2024,15:00,Brentford,3,Southampton,1,16955,Gtech Community Stadium,Joshua Smith
+3,Sat,8/31/2024,15:00,Leicester City,1,Aston Villa,2,31725,King Power Stadium,David Coote
+3,Sat,8/31/2024,15:00,Everton,2,Bournemouth,3,38805,Goodison Park,Stuart Attwell
+3,Sat,8/31/2024,17:30,West Ham,1,Manchester City,3,62469,London Stadium,Michael Oliver
+3,Sun,9/1/2024,13:30,Newcastle Utd,2,Tottenham,1,52211,St James' Park,Robert Jones
+3,Sun,9/1/2024,13:30,Chelsea,1,Crystal Palace,1,39298,Stamford Bridge,Jarred Gillett
+3,Sun,9/1/2024,16:00,Manchester Utd,0,Liverpool,3,73738,Old Trafford,Anthony Taylor
+4,Sat,9/14/2024,12:30,Southampton,0,Manchester Utd,3,31144,St Mary's Stadium,Stuart Attwell
+4,Sat,9/14/2024,15:00,Manchester City,2,Brentford,1,52148,Etihad Stadium,Darren Bond
+4,Sat,9/14/2024,15:00,Liverpool,0,Nott'ham Forest,1,60344,Anfield,Michael Oliver
+4,Sat,9/14/2024,15:00,Crystal Palace,2,Leicester City,2,25147,Selhurst Park,Tony Harrington
+4,Sat,9/14/2024,15:00,Fulham,1,West Ham,1,26528,Craven Cottage,Tim Robinson
+4,Sat,9/14/2024,15:00,Brighton,0,Ipswich Town,0,41573,The American Express Stadium,Samuel Barrott
+4,Sat,9/14/2024,17:30,Aston Villa,3,Everton,2,41573,Villa Park,Craig Pawson
+4,Sat,9/14/2024,20:00,Bournemouth,0,Chelsea,1,11235,Vitality Stadium,Anthony Taylor
+4,Sun,9/15/2024,14:00,Tottenham,0,Arsenal,1,61645,Tottenham Hotspur Stadium,Jarred Gillett
+4,Sun,9/15/2024,16:30,Wolves,1,Newcastle Utd,2,30255,Molineux Stadium,Chris Kavanagh
+5,Sat,9/21/2024,12:30,West Ham,0,Chelsea,3,62473,London Stadium,Samuel Barrott
+5,Sat,9/21/2024,15:00,Tottenham,3,Brentford,1,61246,Tottenham Hotspur Stadium,John Brooks
+5,Sat,9/21/2024,15:00,Aston Villa,3,Wolves,1,39978,Villa Park,Tim Robinson
+5,Sat,9/21/2024,15:00,Fulham,3,Newcastle Utd,1,25700,Craven Cottage,Peter Bankes
+5,Sat,9/21/2024,15:00,Southampton,1,Ipswich Town,1,31117,St Mary's Stadium,Samuel Allison
+5,Sat,9/21/2024,15:00,Leicester City,1,Everton,1,31765,King Power Stadium,Darren England
+5,Sat,9/21/2024,15:00,Liverpool,3,Bournemouth,0,60347,Anfield,Tony Harrington
+5,Sat,9/21/2024,17:30,Crystal Palace,0,Manchester Utd,0,25172,Selhurst Park,David Coote
+5,Sun,9/22/2024,14:00,Brighton,2,Nott'ham Forest,2,31444,The American Express Stadium,Robert Jones
+5,Sun,9/22/2024,16:30,Manchester City,2,Arsenal,2,52846,Etihad Stadium,Michael Oliver
+6,Sat,9/28/2024,12:30,Newcastle Utd,1,Manchester City,1,52248,St James' Park,Jarred Gillett
+6,Sat,9/28/2024,15:00,Brentford,1,West Ham,1,17050,Gtech Community Stadium,Simon Hooper
+6,Sat,9/28/2024,15:00,Everton,2,Crystal Palace,1,38954,Goodison Park,Andy Madley
+6,Sat,9/28/2024,15:00,Arsenal,4,Leicester City,2,60323,Emirates Stadium,Samuel Barrott
+6,Sat,9/28/2024,15:00,Chelsea,4,Brighton,2,39495,Stamford Bridge,Peter Bankes
+6,Sat,9/28/2024,15:00,Nott'ham Forest,0,Fulham,1,30139,The City Ground,Joshua Smith
+6,Sat,9/28/2024,17:30,Wolves,1,Liverpool,2,31413,Molineux Stadium,Anthony Taylor
+6,Sun,9/29/2024,14:00,Ipswich Town,2,Aston Villa,2,29943,Portman Road Stadium,Stuart Attwell
+6,Sun,9/29/2024,16:30,Manchester Utd,0,Tottenham,3,73587,Old Trafford,Chris Kavanagh
+6,Mon,9/30/2024,20:00,Bournemouth,3,Southampton,1,11243,Vitality Stadium,Michael Oliver
+7,Sat,10/5/2024,12:30,Crystal Palace,0,Liverpool,1,25185,Selhurst Park,Simon Hooper
+7,Sat,10/5/2024,15:00,Brentford,5,Wolves,3,16960,Gtech Community Stadium,Andy Madley
+7,Sat,10/5/2024,15:00,Leicester City,1,Bournemouth,0,31706,King Power Stadium,Darren Bond
+7,Sat,10/5/2024,15:00,Manchester City,3,Fulham,2,53017,Etihad Stadium,Peter Bankes
+7,Sat,10/5/2024,15:00,West Ham,4,Ipswich Town,1,62467,London Stadium,Anthony Taylor
+7,Sat,10/5/2024,15:00,Arsenal,3,Southampton,1,60307,Emirates Stadium,Tony Harrington
+7,Sat,10/5/2024,17:30,Everton,0,Newcastle Utd,0,39265,Goodison Park,Craig Pawson
+7,Sun,10/6/2024,14:00,Aston Villa,0,Manchester Utd,0,42682,Villa Park,Robert Jones
+7,Sun,10/6/2024,14:00,Chelsea,1,Nott'ham Forest,1,39501,Stamford Bridge,Chris Kavanagh
+7,Sun,10/6/2024,16:30,Brighton,3,Tottenham,2,31487,The American Express Stadium,David Coote
+8,Sat,10/19/2024,12:30,Tottenham,4,West Ham,1,61381,Tottenham Hotspur Stadium,Andy Madley
+8,Sat,10/19/2024,15:00,Fulham,1,Aston Villa,3,26743,Craven Cottage,Darren England
+8,Sat,10/19/2024,15:00,Ipswich Town,0,Everton,2,29862,Portman Road Stadium,Michael Oliver
+8,Sat,10/19/2024,15:00,Southampton,2,Leicester City,3,31145,St Mary's Stadium,Anthony Taylor
+8,Sat,10/19/2024,15:00,Manchester Utd,2,Brentford,1,73738,Old Trafford,Samuel Barrott
+8,Sat,10/19/2024,15:00,Newcastle Utd,0,Brighton,1,52220,St James' Park,Peter Bankes
+8,Sat,10/19/2024,17:30,Bournemouth,2,Arsenal,0,11235,Vitality Stadium,Robert Jones
+8,Sun,10/20/2024,14:00,Wolves,1,Manchester City,2,31319,Molineux Stadium,Chris Kavanagh
+8,Sun,10/20/2024,16:30,Liverpool,2,Chelsea,1,60277,Anfield,John Brooks
+8,Mon,10/21/2024,20:00,Nott'ham Forest,1,Crystal Palace,0,29443,The City Ground,Tim Robinson
+9,Fri,10/25/2024,20:00,Leicester City,1,Nott'ham Forest,3,31879,King Power Stadium,Craig Pawson
+9,Sat,10/26/2024,15:00,Brighton,2,Wolves,2,31840,The American Express Stadium,Michael Oliver
+9,Sat,10/26/2024,15:00,Manchester City,1,Southampton,0,52844,Etihad Stadium,Tony Harrington
+9,Sat,10/26/2024,15:00,Brentford,4,Ipswich Town,3,17109,Gtech Community Stadium,Lewis Smith
+9,Sat,10/26/2024,15:00,Aston Villa,1,Bournemouth,1,42165,Villa Park,Chris Kavanagh
+9,Sat,10/26/2024,17:30,Everton,1,Fulham,1,38742,Goodison Park,John Brooks
+9,Sun,10/27/2024,14:00,West Ham,2,Manchester Utd,1,62474,London Stadium,David Coote
+9,Sun,10/27/2024,14:00,Chelsea,2,Newcastle Utd,1,39526,Stamford Bridge,Simon Hooper
+9,Sun,10/27/2024,14:00,Crystal Palace,1,Tottenham,0,25108,Selhurst Park,Darren Bond
+9,Sun,10/27/2024,16:30,Arsenal,2,Liverpool,2,60383,Emirates Stadium,Anthony Taylor
+10,Sat,11/2/2024,12:30,Newcastle Utd,1,Arsenal,0,52249,St James' Park,John Brooks
+10,Sat,11/2/2024,15:00,Liverpool,2,Brighton,1,60331,Anfield,Tony Harrington
+10,Sat,11/2/2024,15:00,Southampton,1,Everton,0,31143,St Mary's Stadium,Andy Madley
+10,Sat,11/2/2024,15:00,Nott'ham Forest,3,West Ham,0,30112,The City Ground,Peter Bankes
+10,Sat,11/2/2024,15:00,Ipswich Town,1,Leicester City,1,29874,Portman Road Stadium,Tim Robinson
+10,Sat,11/2/2024,15:00,Bournemouth,2,Manchester City,1,11231,Vitality Stadium,Michael Oliver
+10,Sat,11/2/2024,17:30,Wolves,2,Crystal Palace,2,31124,Molineux Stadium,Anthony Taylor
+10,Sun,11/3/2024,14:00,Tottenham,4,Aston Villa,1,61253,Tottenham Hotspur Stadium,Craig Pawson
+10,Sun,11/3/2024,16:30,Manchester Utd,1,Chelsea,1,73813,Old Trafford,Robert Jones
+10,Mon,11/4/2024,20:00,Fulham,2,Brentford,1,24931,Craven Cottage,Stuart Attwell
+11,Sat,11/9/2024,15:00,West Ham,0,Everton,0,62463,London Stadium,Stuart Attwell
+11,Sat,11/9/2024,15:00,Crystal Palace,0,Fulham,2,25142,Selhurst Park,Michael Salisbury
+11,Sat,11/9/2024,15:00,Wolves,2,Southampton,0,31403,Molineux Stadium,Thomas Bramall
+11,Sat,11/9/2024,15:00,Brentford,3,Bournemouth,2,16587,Gtech Community Stadium,Darren Bond
+11,Sat,11/9/2024,17:30,Brighton,2,Manchester City,1,31715,The American Express Stadium,Samuel Barrott
+11,Sat,11/9/2024,20:00,Liverpool,2,Aston Villa,0,60292,Anfield,David Coote
+11,Sun,11/10/2024,14:00,Tottenham,1,Ipswich Town,2,61505,Tottenham Hotspur Stadium,Darren England
+11,Sun,11/10/2024,14:00,Nott'ham Forest,1,Newcastle Utd,3,30145,The City Ground,Anthony Taylor
+11,Sun,11/10/2024,14:00,Manchester Utd,3,Leicester City,0,73829,Old Trafford,Peter Bankes
+11,Sun,11/10/2024,16:30,Chelsea,1,Arsenal,1,39780,Stamford Bridge,Michael Oliver
+12,Sat,11/23/2024,12:30,Leicester City,1,Chelsea,2,31880,King Power Stadium,Andy Madley
+12,Sat,11/23/2024,15:00,Aston Villa,2,Crystal Palace,2,42175,Villa Park,Tim Robinson
+12,Sat,11/23/2024,15:00,Fulham,1,Wolves,4,26685,Craven Cottage,Robert Jones
+12,Sat,11/23/2024,15:00,Bournemouth,1,Brighton,2,11196,Vitality Stadium,Stuart Attwell
+12,Sat,11/23/2024,15:00,Arsenal,3,Nott'ham Forest,0,60298,Emirates Stadium,Simon Hooper
+12,Sat,11/23/2024,15:00,Everton,0,Brentford,0,38915,Goodison Park,Chris Kavanagh
+12,Sat,11/23/2024,17:30,Manchester City,0,Tottenham,4,52478,Etihad Stadium,John Brooks
+12,Sun,11/24/2024,14:00,Southampton,2,Liverpool,3,31278,St Mary's Stadium,Samuel Barrott
+12,Sun,11/24/2024,16:30,Ipswich Town,1,Manchester Utd,1,30017,Portman Road Stadium,Anthony Taylor
+12,Mon,11/25/2024,20:00,Newcastle Utd,0,West Ham,2,52094,St James' Park,Craig Pawson
+13,Fri,11/29/2024,20:00,Brighton,1,Southampton,1,31542,The American Express Stadium,Robert Jones
+13,Sat,11/30/2024,15:00,Wolves,2,Bournemouth,4,26685,Molineux Stadium,Peter Bankes
+13,Sat,11/30/2024,15:00,Nott'ham Forest,1,Ipswich Town,0,30237,The City Ground,Tony Harrington
+13,Sat,11/30/2024,15:00,Brentford,4,Leicester City,1,17084,Gtech Community Stadium,Michael Oliver
+13,Sat,11/30/2024,15:00,Crystal Palace,1,Newcastle Utd,1,25101,Selhurst Park,Darren England
+13,Sat,11/30/2024,17:30,West Ham,2,Arsenal,5,62475,London Stadium,Anthony Taylor
+13,Sun,12/1/2024,13:30,Manchester Utd,4,Everton,0,73817,Old Trafford,John Brooks
+13,Sun,12/1/2024,13:30,Tottenham,1,Fulham,1,61141,Tottenham Hotspur Stadium,Darren Bond
+13,Sun,12/1/2024,13:30,Chelsea,3,Aston Villa,0,40853,Stamford Bridge,Stuart Attwell
+13,Sun,12/1/2024,16:00,Liverpool,2,Manchester City,0,60248,Anfield,Chris Kavanagh
+14,Tue,12/3/2024,19:30,Ipswich Town,0,Crystal Palace,1,29533,Portman Road Stadium,Craig Pawson
+14,Tue,12/3/2024,20:15,Leicester City,3,West Ham,1,30947,King Power Stadium,Joshua Smith
+14,Wed,12/4/2024,19:30,Newcastle Utd,3,Liverpool,3,52237,St James' Park,Andy Madley
+14,Wed,12/4/2024,19:30,Everton,4,Wolves,0,38820,Goodison Park,Michael Salisbury
+14,Wed,12/4/2024,19:30,Manchester City,3,Nott'ham Forest,0,51764,Etihad Stadium,Michael Oliver
+14,Wed,12/4/2024,19:30,Southampton,1,Chelsea,5,31193,St Mary's Stadium,Tony Harrington
+14,Wed,12/4/2024,20:15,Arsenal,2,Manchester Utd,0,60256,Emirates Stadium,Samuel Barrott
+14,Wed,12/4/2024,20:15,Aston Villa,3,Brentford,1,42148,Villa Park,Lewis Smith
+14,Thu,12/5/2024,19:30,Fulham,3,Brighton,1,26368,Craven Cottage,Peter Bankes
+14,Thu,12/5/2024,20:15,Bournemouth,1,Tottenham,0,11234,Vitality Stadium,Simon Hooper
+15,Sat,12/7/2024,15:00,Aston Villa,1,Southampton,0,42453,Villa Park,Darren Bond
+15,Sat,12/7/2024,15:00,Crystal Palace,2,Manchester City,2,25142,Selhurst Park,Robert Jones
+15,Sat,12/7/2024,15:00,Brentford,4,Newcastle Utd,2,17078,Gtech Community Stadium,Simon Hooper
+15,Sat,12/7/2024,17:30,Manchester Utd,2,Nott'ham Forest,3,73778,Old Trafford,Darren England
+15,Sun,12/8/2024,14:00,Leicester City,2,Brighton,2,31647,King Power Stadium,Stuart Attwell
+15,Sun,12/8/2024,14:00,Ipswich Town,1,Bournemouth,2,29180,Portman Road Stadium,Michael Salisbury
+15,Sun,12/8/2024,14:00,Fulham,1,Arsenal,1,26954,Craven Cottage,Chris Kavanagh
+15,Sun,12/8/2024,16:30,Tottenham,3,Chelsea,4,61184,Tottenham Hotspur Stadium,Anthony Taylor
+15,Mon,12/9/2024,20:00,West Ham,2,Wolves,1,62474,London Stadium,John Brooks
+16,Sat,12/14/2024,15:00,Liverpool,2,Fulham,2,60333,Anfield,Tony Harrington
+16,Sat,12/14/2024,15:00,Wolves,1,Ipswich Town,2,30866,Molineux Stadium,Simon Hooper
+16,Sat,12/14/2024,15:00,Newcastle Utd,4,Leicester City,0,52235,St James' Park,Thomas Bramall
+16,Sat,12/14/2024,15:00,Arsenal,0,Everton,0,60176,Emirates Stadium,Craig Pawson
+16,Sat,12/14/2024,17:30,Nott'ham Forest,2,Aston Villa,1,30117,The City Ground,Samuel Barrott
+16,Sun,12/15/2024,14:00,Brighton,1,Crystal Palace,3,30893,The American Express Stadium,Michael Oliver
+16,Sun,12/15/2024,16:30,Manchester City,1,Manchester Utd,2,53184,Etihad Stadium,Anthony Taylor
+16,Sun,12/15/2024,19:00,Southampton,0,Tottenham,5,31090,St Mary's Stadium,Darren England
+16,Sun,12/15/2024,19:00,Chelsea,2,Brentford,1,39571,Stamford Bridge,Peter Bankes
+16,Mon,12/16/2024,20:00,Bournemouth,1,West Ham,1,11204,Vitality Stadium,Chris Kavanagh
+17,Sat,12/21/2024,12:30,Aston Villa,2,Manchester City,1,42345,Villa Park,Peter Bankes
+17,Sat,12/21/2024,15:00,Ipswich Town,0,Newcastle Utd,4,29774,Portman Road Stadium,Stuart Attwell
+17,Sat,12/21/2024,15:00,Brentford,0,Nott'ham Forest,2,17115,Gtech Community Stadium,Michael Oliver
+17,Sat,12/21/2024,15:00,West Ham,1,Brighton,1,62460,London Stadium,Robert Jones
+17,Sat,12/21/2024,17:30,Crystal Palace,1,Arsenal,5,25167,Selhurst Park,Simon Hooper
+17,Sun,12/22/2024,14:00,Manchester Utd,0,Bournemouth,3,73720,Old Trafford,Craig Pawson
+17,Sun,12/22/2024,14:00,Leicester City,0,Wolves,3,31818,King Power Stadium,Anthony Taylor
+17,Sun,12/22/2024,14:00,Everton,0,Chelsea,0,39358,Goodison Park,Chris Kavanagh
+17,Sun,12/22/2024,14:00,Fulham,0,Southampton,0,26819,Craven Cottage,Tim Robinson
+17,Sun,12/22/2024,16:30,Tottenham,3,Liverpool,6,61439,Tottenham Hotspur Stadium,Samuel Barrott
+18,Thu,12/26/2024,12:30,Manchester City,1,Everton,1,55527,Etihad Stadium,Simon Hooper
+18,Thu,12/26/2024,15:00,Southampton,0,West Ham,1,31059,St Mary's Stadium,Lewis Smith
+18,Thu,12/26/2024,15:00,Newcastle Utd,3,Aston Villa,0,52168,St James' Park,Anthony Taylor
+18,Thu,12/26/2024,15:00,Nott'ham Forest,1,Tottenham,0,30200,The City Ground,Craig Pawson
+18,Thu,12/26/2024,15:00,Bournemouth,0,Crystal Palace,0,11129,Vitality Stadium,Thomas Bramall
+18,Thu,12/26/2024,15:00,Chelsea,1,Fulham,2,39687,Stamford Bridge,Samuel Barrott
+18,Thu,12/26/2024,17:30,Wolves,2,Manchester Utd,0,31407,Molineux Stadium,Tony Harrington
+18,Thu,12/26/2024,20:00,Liverpool,3,Leicester City,1,60300,Anfield,Darren Bond
+18,Fri,12/27/2024,19:30,Brighton,0,Brentford,0,31548,The American Express Stadium,Andy Madley
+18,Fri,12/27/2024,20:15,Arsenal,1,Ipswich Town,0,60271,Emirates Stadium,Darren England
+19,Sun,12/29/2024,14:30,Leicester City,0,Manchester City,2,32057,King Power Stadium,Michael Oliver
+19,Sun,12/29/2024,15:00,Everton,0,Nott'ham Forest,2,25414,Goodison Park,Tony Harrington
+19,Sun,12/29/2024,15:00,Tottenham,2,Wolves,2,61284,Tottenham Hotspur Stadium,Chris Kavanagh
+19,Sun,12/29/2024,15:00,Fulham,2,Bournemouth,2,27301,Craven Cottage,Robert Jones
+19,Sun,12/29/2024,15:00,Crystal Palace,2,Southampton,1,25130,Selhurst Park,Michael Salisbury
+19,Sun,12/29/2024,17:15,West Ham,0,Liverpool,5,62476,London Stadium,Anthony Taylor
+19,Mon,12/30/2024,19:45,Aston Villa,2,Brighton,2,41414,Villa Park,Craig Pawson
+19,Mon,12/30/2024,19:45,Ipswich Town,2,Chelsea,0,29968,Portman Road Stadium,John Brooks
+19,Mon,12/30/2024,20:00,Manchester Utd,0,Newcastle Utd,2,73809,Old Trafford,Simon Hooper
+19,Wed,1/1/2025,17:30,Brentford,1,Arsenal,3,47190,Gtech Community Stadium,Peter Bankes
+20,Sat,1/4/2025,12:30,Tottenham,1,Newcastle Utd,2,61293,Tottenham Hotspur Stadium,Andy Madley
+20,Sat,1/4/2025,15:00,Aston Villa,2,Leicester City,1,42386,Villa Park,Jarred Gillett
+20,Sat,1/4/2025,15:00,Bournemouth,1,Everton,0,11223,Vitality Stadium,John Brooks
+20,Sat,1/4/2025,15:00,Crystal Palace,1,Chelsea,1,25179,Selhurst Park,Tim Robinson
+20,Sat,1/4/2025,15:00,Southampton,0,Brentford,5,31001,St Mary's Stadium,Stuart Attwell
+20,Sat,1/4/2025,15:00,Manchester City,4,West Ham,1,52737,Etihad Stadium,Michael Salisbury
+20,Sat,1/4/2025,17:30,Brighton,1,Arsenal,1,31714,The American Express Stadium,Anthony Taylor
+20,Sun,1/5/2025,14:00,Fulham,2,Ipswich Town,2,27042,Craven Cottage,Darren Bond
+20,Sun,1/5/2025,16:30,Liverpool,2,Manchester Utd,2,60275,Anfield,Michael Oliver
+20,Mon,1/6/2025,20:00,Wolves,0,Nott'ham Forest,3,29940,Molineux Stadium,Peter Bankes
+21,Tue,1/14/2025,19:30,West Ham,3,Fulham,2,62456,London Stadium,Craig Pawson
+21,Tue,1/14/2025,19:30,Chelsea,2,Bournemouth,2,39092,Stamford Bridge,Robert Jones
+21,Tue,1/14/2025,19:30,Brentford,2,Manchester City,2,17048,Gtech Community Stadium,Anthony Taylor
+21,Tue,1/14/2025,20:00,Nott'ham Forest,1,Liverpool,1,30249,The City Ground,Chris Kavanagh
+21,Wed,1/15/2025,19:30,Leicester City,0,Crystal Palace,2,29766,King Power Stadium,Andy Madley
+21,Wed,1/15/2025,19:30,Everton,0,Aston Villa,1,39085,Goodison Park,Samuel Barrott
+21,Wed,1/15/2025,19:30,Newcastle Utd,3,Wolves,0,51975,St James' Park,Darren England
+21,Wed,1/15/2025,20:00,Arsenal,2,Tottenham,1,60287,Emirates Stadium,Simon Hooper
+21,Thu,1/16/2025,19:30,Ipswich Town,0,Brighton,2,29403,Portman Road Stadium,Tony Harrington
+21,Thu,1/16/2025,20:00,Manchester Utd,3,Southampton,1,73722,Old Trafford,John Brooks
+22,Sat,1/18/2025,12:30,Newcastle Utd,1,Bournemouth,4,52227,St James' Park,Stuart Attwell
+22,Sat,1/18/2025,15:00,Leicester City,0,Fulham,2,31500,King Power Stadium,Michael Salisbury
+22,Sat,1/18/2025,15:00,West Ham,0,Crystal Palace,2,62469,London Stadium,Thomas Bramall
+22,Sat,1/18/2025,15:00,Brentford,0,Liverpool,2,17215,Gtech Community Stadium,Andy Madley
+22,Sat,1/18/2025,17:30,Arsenal,2,Aston Villa,2,60067,Emirates Stadium,Chris Kavanagh
+22,Sun,1/19/2025,14:00,Everton,3,Tottenham,2,39326,Goodison Park,Darren England
+22,Sun,1/19/2025,14:00,Manchester Utd,1,Brighton,3,73758,Old Trafford,Peter Bankes
+22,Sun,1/19/2025,14:00,Nott'ham Forest,3,Southampton,2,30180,The City Ground,Anthony Taylor
+22,Sun,1/19/2025,16:30,Ipswich Town,0,Manchester City,6,29841,Portman Road Stadium,Samuel Barrott
+22,Mon,1/20/2025,20:00,Chelsea,3,Wolves,1,39221,Stamford Bridge,Simon Hooper
+23,Sat,1/25/2025,15:00,Southampton,1,Newcastle Utd,3,31141,St Mary's Stadium,Samuel Barrott
+23,Sat,1/25/2025,15:00,Brighton,0,Everton,1,31087,The American Express Stadium,Tim Robinson
+23,Sat,1/25/2025,15:00,Liverpool,4,Ipswich Town,1,60420,Anfield,Michael Salisbury
+23,Sat,1/25/2025,15:00,Bournemouth,5,Nott'ham Forest,0,11228,Vitality Stadium,Craig Pawson
+23,Sat,1/25/2025,15:00,Wolves,0,Arsenal,1,31503,Molineux Stadium,Michael Oliver
+23,Sat,1/25/2025,17:30,Manchester City,3,Chelsea,1,52687,Etihad Stadium,John Brooks
+23,Sun,1/26/2025,14:00,Crystal Palace,1,Brentford,2,25066,Selhurst Park,Tony Harrington
+23,Sun,1/26/2025,14:00,Tottenham,1,Leicester City,2,61295,Tottenham Hotspur Stadium,Robert Jones
+23,Sun,1/26/2025,16:30,Aston Villa,1,West Ham,1,41628,Villa Park,Peter Bankes
+23,Sun,1/26/2025,19:00,Fulham,0,Manchester Utd,1,27288,Craven Cottage,Anthony Taylor
+24,Sat,2/1/2025,12:30,Nott'ham Forest,7,Brighton,0,30164,The City Ground,Simon Hooper
+24,Sat,2/1/2025,15:00,Everton,4,Leicester City,0,39376,Goodison Park,Darren Bond
+24,Sat,2/1/2025,15:00,Newcastle Utd,1,Fulham,2,52173,St James' Park,Chris Kavanagh
+24,Sat,2/1/2025,15:00,Bournemouth,0,Liverpool,2,11239,Vitality Stadium,Darren England
+24,Sat,2/1/2025,15:00,Ipswich Town,1,Southampton,2,29902,Portman Road Stadium,Michael Oliver
+24,Sat,2/1/2025,17:30,Wolves,2,Aston Villa,0,31385,Molineux Stadium,Andy Madley
+24,Sun,2/2/2025,14:00,Manchester Utd,0,Crystal Palace,2,73751,Old Trafford,John Brooks
+24,Sun,2/2/2025,14:00,Brentford,0,Tottenham,2,17154,Gtech Community Stadium,Jarred Gillett
+24,Sun,2/2/2025,16:30,Arsenal,5,Manchester City,1,60355,Emirates Stadium,Peter Bankes
+24,Mon,2/3/2025,20:00,Chelsea,2,West Ham,1,39459,Stamford Bridge,Stuart Attwell
+15,Wed,2/12/2025,19:30,Everton,2,Liverpool,2,39280,Goodison Park,Michael Oliver
+25,Fri,2/14/2025,20:00,Brighton,3,Chelsea,0,31324,The American Express Stadium,Chris Kavanagh
+25,Sat,2/15/2025,12:30,Leicester City,0,Arsenal,2,31968,King Power Stadium,Samuel Barrott
+25,Sat,2/15/2025,15:00,Fulham,2,Nott'ham Forest,1,27164,Craven Cottage,Thomas Bramall
+25,Sat,2/15/2025,15:00,Manchester City,4,Newcastle Utd,0,52479,Etihad Stadium,Andy Madley
+25,Sat,2/15/2025,15:00,Southampton,1,Bournemouth,3,31037,St Mary's Stadium,Jarred Gillett
+25,Sat,2/15/2025,15:00,Aston Villa,1,Ipswich Town,1,42510,Villa Park,Robert Jones
+25,Sat,2/15/2025,15:00,West Ham,0,Brentford,1,62415,London Stadium,Darren England
+25,Sat,2/15/2025,17:30,Crystal Palace,1,Everton,2,25108,Selhurst Park,Anthony Taylor
+25,Sun,2/16/2025,14:00,Liverpool,2,Wolves,1,60248,Anfield,Simon Hooper
+25,Sun,2/16/2025,16:30,Tottenham,1,Manchester Utd,0,61383,Tottenham Hotspur Stadium,Peter Bankes
+29,Wed,2/19/2025,19:30,Aston Villa,2,Liverpool,2,41910,Villa Park,Craig Pawson
+26,Fri,2/21/2025,20:00,Leicester City,0,Brentford,4,31077,King Power Stadium,Tony Harrington
+26,Sat,2/22/2025,12:30,Everton,2,Manchester Utd,2,39290,Goodison Park,Andy Madley
+26,Sat,2/22/2025,15:00,Fulham,0,Crystal Palace,2,26777,Craven Cottage,Robert Jones
+26,Sat,2/22/2025,15:00,Bournemouth,0,Wolves,1,11206,Vitality Stadium,Michael Salisbury
+26,Sat,2/22/2025,15:00,Ipswich Town,1,Tottenham,4,30003,Portman Road Stadium,Tim Robinson
+26,Sat,2/22/2025,15:00,Arsenal,0,West Ham,1,60262,Emirates Stadium,Craig Pawson
+26,Sat,2/22/2025,15:00,Southampton,0,Brighton,4,30775,St Mary's Stadium,Darren Bond
+26,Sat,2/22/2025,17:30,Aston Villa,2,Chelsea,1,42423,Villa Park,Michael Oliver
+26,Sun,2/23/2025,14:00,Newcastle Utd,4,Nott'ham Forest,3,52223,St James' Park,Jarred Gillett
+26,Sun,2/23/2025,16:30,Manchester City,0,Liverpool,2,52803,Etihad Stadium,Anthony Taylor
+27,Tue,2/25/2025,19:30,Brighton,2,Bournemouth,1,31138,The American Express Stadium,Michael Oliver
+27,Tue,2/25/2025,19:30,Crystal Palace,4,Aston Villa,1,24712,Selhurst Park,Samuel Barrott
+27,Tue,2/25/2025,19:30,Wolves,1,Fulham,2,28708,Molineux Stadium,Peter Bankes
+27,Tue,2/25/2025,20:15,Chelsea,4,Southampton,0,39485,Stamford Bridge,Thomas Bramall
+27,Wed,2/26/2025,19:30,Tottenham,0,Manchester City,1,60820,Tottenham Hotspur Stadium,Jarred Gillett
+27,Wed,2/26/2025,19:30,Nott'ham Forest,0,Arsenal,0,30200,The City Ground,Andy Madley
+27,Wed,2/26/2025,19:30,Manchester Utd,3,Ipswich Town,2,73827,Old Trafford,Darren England
+27,Wed,2/26/2025,19:30,Brentford,1,Everton,1,17082,Gtech Community Stadium,Simon Hooper
+27,Wed,2/26/2025,20:15,Liverpool,2,Newcastle Utd,0,60374,Anfield,Stuart Attwell
+27,Thu,2/27/2025,20:00,West Ham,2,Leicester City,0,62455,London Stadium,Anthony Taylor
+28,Sat,3/8/2025,12:30,Nott'ham Forest,1,Manchester City,0,30252,The City Ground,Chris Kavanagh
+28,Sat,3/8/2025,15:00,Liverpool,3,Southampton,1,60399,Anfield,Lewis Smith
+28,Sat,3/8/2025,15:00,Brighton,2,Fulham,1,31584,The American Express Stadium,Samuel Barrott
+28,Sat,3/8/2025,15:00,Crystal Palace,1,Ipswich Town,0,25155,Selhurst Park,Simon Hooper
+28,Sat,3/8/2025,17:30,Brentford,0,Aston Villa,1,17171,Gtech Community Stadium,Jarred Gillett
+28,Sat,3/8/2025,20:00,Wolves,1,Everton,1,30738,Molineux Stadium,Stuart Attwell
+28,Sun,3/9/2025,14:00,Chelsea,1,Leicester City,0,39750,Stamford Bridge,Tim Robinson
+28,Sun,3/9/2025,14:00,Tottenham,2,Bournemouth,2,61178,Tottenham Hotspur Stadium,John Brooks
+28,Sun,3/9/2025,16:30,Manchester Utd,1,Arsenal,1,73812,Old Trafford,Anthony Taylor
+28,Mon,3/10/2025,20:00,West Ham,0,Newcastle Utd,1,62463,London Stadium,Michael Salisbury
+29,Sat,3/15/2025,15:00,Everton,1,West Ham,1,39343,Goodison Park,Darren Bond
+29,Sat,3/15/2025,15:00,Southampton,1,Wolves,2,30950,St Mary's Stadium,Robert Jones
+29,Sat,3/15/2025,15:00,Ipswich Town,2,Nott'ham Forest,4,29878,Portman Road Stadium,Michael Salisbury
+29,Sat,3/15/2025,15:00,Manchester City,2,Brighton,2,52471,Etihad Stadium,Simon Hooper
+29,Sat,3/15/2025,17:30,Bournemouth,1,Brentford,2,11180,Vitality Stadium,Craig Pawson
+29,Sun,3/16/2025,13:30,Arsenal,1,Chelsea,0,60311,Emirates Stadium,Chris Kavanagh
+29,Sun,3/16/2025,13:30,Fulham,2,Tottenham,0,27182,Craven Cottage,Andy Madley
+29,Sun,3/16/2025,19:00,Leicester City,0,Manchester Utd,3,31773,King Power Stadium,Thomas Bramall
+30,Tue,4/1/2025,19:45,Arsenal,2,Fulham,1,60256,Emirates Stadium,John Brooks
+30,Tue,4/1/2025,19:45,Wolves,1,West Ham,0,29587,Molineux Stadium,Tony Harrington
+30,Tue,4/1/2025,20:00,Nott'ham Forest,1,Manchester Utd,0,30249,The City Ground,Jarred Gillett
+30,Wed,4/2/2025,19:45,Newcastle Utd,2,Brentford,1,52021,St James' Park,Peter Bankes
+30,Wed,4/2/2025,19:45,Manchester City,2,Leicester City,0,52148,Etihad Stadium,Darren England
+30,Wed,4/2/2025,19:45,Southampton,1,Crystal Palace,1,30158,St Mary's Stadium,Andy Madley
+30,Wed,4/2/2025,19:45,Bournemouth,1,Ipswich Town,2,11192,Vitality Stadium,Robert Jones
+30,Wed,4/2/2025,19:45,Brighton,0,Aston Villa,3,27895,The American Express Stadium,Stuart Attwell
+30,Wed,4/2/2025,20:00,Liverpool,1,Everton,0,60457,Anfield,Samuel Barrott
+30,Thu,4/3/2025,20:00,Chelsea,1,Tottenham,0,39852,Stamford Bridge,Craig Pawson
+31,Sat,4/5/2025,12:30,Everton,1,Arsenal,1,39316,Goodison Park,Darren England
+31,Sat,4/5/2025,15:00,Crystal Palace,2,Brighton,1,24564,Selhurst Park,Anthony Taylor
+31,Sat,4/5/2025,15:00,Ipswich Town,1,Wolves,2,29549,Portman Road Stadium,Peter Bankes
+31,Sat,4/5/2025,15:00,West Ham,2,Bournemouth,2,62459,London Stadium,Tim Robinson
+31,Sat,4/5/2025,17:30,Aston Villa,2,Nott'ham Forest,1,42743,Villa Park,Simon Hooper
+31,Sun,4/6/2025,14:00,Fulham,3,Liverpool,2,27770,Craven Cottage,Chris Kavanagh
+31,Sun,4/6/2025,14:00,Brentford,0,Chelsea,0,17183,Gtech Community Stadium,Michael Oliver
+31,Sun,4/6/2025,14:00,Tottenham,3,Southampton,1,60984,Tottenham Hotspur Stadium,Michael Salisbury
+31,Sun,4/6/2025,16:30,Manchester Utd,0,Manchester City,0,73738,Old Trafford,John Brooks
+31,Mon,4/7/2025,20:00,Leicester City,0,Newcastle Utd,3,30403,King Power Stadium,Robert Jones
+32,Sat,4/12/2025,12:30,Manchester City,5,Crystal Palace,2,52489,Etihad Stadium,Jarred Gillett
+32,Sat,4/12/2025,15:00,Brighton,2,Leicester City,2,31150,The American Express Stadium,Darren Bond
+32,Sat,4/12/2025,15:00,Southampton,0,Aston Villa,3,30199,St Mary's Stadium,Thomas Bramall
+32,Sat,4/12/2025,15:00,Nott'ham Forest,0,Everton,1,30199,The City Ground,Craig Pawson
+32,Sat,4/12/2025,17:30,Arsenal,1,Brentford,1,60184,Emirates Stadium,Simon Hooper
+32,Sun,4/13/2025,14:00,Liverpool,2,West Ham,1,60376,Anfield,Andy Madley
+32,Sun,4/13/2025,14:00,Chelsea,2,Ipswich Town,2,39805,Stamford Bridge,Stuart Attwell
+32,Sun,4/13/2025,14:00,Wolves,4,Tottenham,2,31463,Molineux Stadium,Anthony Taylor
+32,Sun,4/13/2025,16:30,Newcastle Utd,4,Manchester Utd,1,52252,St James' Park,Chris Kavanagh
+32,Mon,4/14/2025,20:00,Bournemouth,1,Fulham,0,11195,Vitality Stadium,Michael Oliver
+29,Wed,4/16/2025,19:30,Newcastle Utd,5,Crystal Palace,0,52197,St James' Park,Darren England
+33,Sat,4/19/2025,15:00,Everton,0,Manchester City,2,39332,Goodison Park,Simon Hooper
+33,Sat,4/19/2025,15:00,West Ham,1,Southampton,1,62461,London Stadium,Andrew Kitchen
+33,Sat,4/19/2025,15:00,Crystal Palace,0,Bournemouth,0,25185,Selhurst Park,Samuel Barrott
+33,Sat,4/19/2025,15:00,Brentford,4,Brighton,2,17083,Gtech Community Stadium,Tim Robinson
+33,Sat,4/19/2025,17:30,Aston Villa,4,Newcastle Utd,1,42618,Villa Park,Jarred Gillett
+33,Sun,4/20/2025,14:00,Fulham,1,Chelsea,2,27712,Craven Cottage,Anthony Taylor
+33,Sun,4/20/2025,14:00,Ipswich Town,0,Arsenal,4,29549,Portman Road Stadium,Chris Kavanagh
+33,Sun,4/20/2025,14:00,Manchester Utd,0,Wolves,1,73819,Old Trafford,Robert Jones
+33,Sun,4/20/2025,16:30,Leicester City,0,Liverpool,1,30402,King Power Stadium,Stuart Attwell
+33,Mon,4/21/2025,20:00,Tottenham,1,Nott'ham Forest,2,59314,Tottenham Hotspur Stadium,Peter Bankes
+34,Tue,4/22/2025,20:00,Manchester City,2,Aston Villa,1,51834,Etihad Stadium,Craig Pawson
+34,Wed,4/23/2025,20:00,Arsenal,2,Crystal Palace,2,60167,Emirates Stadium,Michael Salisbury
+34,Sat,4/26/2025,12:30,Chelsea,1,Everton,0,39894,Stamford Bridge,Chris Kavanagh
+34,Sat,4/26/2025,15:00,Brighton,3,West Ham,2,31499,The American Express Stadium,Darren England
+34,Sat,4/26/2025,15:00,Wolves,3,Leicester City,0,31518,Molineux Stadium,Samuel Barrott
+34,Sat,4/26/2025,15:00,Southampton,1,Fulham,2,28946,St Mary's Stadium,Tony Harrington
+34,Sat,4/26/2025,15:00,Newcastle Utd,3,Ipswich Town,0,52171,St James' Park,Michael Salisbury
+34,Sun,4/27/2025,14:00,Bournemouth,1,Manchester Utd,1,11241,Vitality Stadium,Peter Bankes
+34,Sun,4/27/2025,16:30,Liverpool,5,Tottenham,1,60415,Anfield,Thomas Bramall
+34,Thu,5/1/2025,19:30,Nott'ham Forest,0,Brentford,2,29040,The City Ground,Darren England
+35,Fri,5/2/2025,20:00,Manchester City,1,Wolves,0,53282,Etihad Stadium,Peter Bankes
+35,Sat,5/3/2025,12:30,Aston Villa,1,Fulham,0,42515,Villa Park,Robert Jones
+35,Sat,5/3/2025,15:00,Leicester City,2,Southampton,0,31240,King Power Stadium,David Webb
+35,Sat,5/3/2025,15:00,Everton,2,Ipswich Town,2,39305,Goodison Park,Lewis Smith
+35,Sat,5/3/2025,17:30,Arsenal,1,Bournemouth,2,60110,Emirates Stadium,Jarred Gillett
+35,Sun,5/4/2025,14:00,Brighton,1,Newcastle Utd,1,31580,The American Express Stadium,Craig Pawson
+35,Sun,5/4/2025,14:00,West Ham,1,Tottenham,1,62468,London Stadium,Michael Oliver
+35,Sun,5/4/2025,14:00,Brentford,4,Manchester Utd,3,18915,Gtech Community Stadium,Anthony Taylor
+35,Sun,5/4/2025,16:30,Chelsea,3,Liverpool,1,39829,Stamford Bridge,Simon Hooper
+35,Mon,5/5/2025,20:00,Crystal Palace,1,Nott'ham Forest,1,25096,Selhurst Park,Andy Madley
+36,Sat,5/10/2025,15:00,Ipswich Town,0,Brentford,1,29511,Portman Road Stadium,Samuel Barrott
+36,Sat,5/10/2025,15:00,Fulham,1,Everton,3,27653,Craven Cottage,Darren England
+36,Sat,5/10/2025,15:00,Wolves,0,Brighton,2,31279,Molineux Stadium,Michael Oliver
+36,Sat,5/10/2025,15:00,Southampton,0,Manchester City,0,30937,St Mary's Stadium,Tim Robinson
+36,Sat,5/10/2025,17:30,Bournemouth,0,Aston Villa,1,11187,Vitality Stadium,Stuart Attwell
+36,Sun,5/11/2025,12:00,Newcastle Utd,2,Chelsea,0,52231,St James' Park,John Brooks
+36,Sun,5/11/2025,14:15,Nott'ham Forest,2,Leicester City,2,30245,The City Ground,Tony Harrington
+36,Sun,5/11/2025,14:15,Tottenham,0,Crystal Palace,2,60254,Tottenham Hotspur Stadium,Chris Kavanagh
+36,Sun,5/11/2025,14:15,Manchester Utd,0,West Ham,2,73804,Old Trafford,Jarred Gillett
+36,Sun,5/11/2025,16:30,Liverpool,2,Arsenal,2,60324,Anfield,Anthony Taylor
+37,Fri,5/16/2025,19:30,Aston Villa,2,Tottenham,0,42239,Villa Park,Peter Bankes
+37,Fri,5/16/2025,20:15,Chelsea,1,Manchester Utd,0,39849,Stamford Bridge,Chris Kavanagh
+37,Sun,5/18/2025,12:00,Everton,2,Southampton,0,39201,Goodison Park,Michael Oliver
+37,Sun,5/18/2025,14:15,West Ham,1,Nott'ham Forest,2,,London Stadium,Samuel Barrott
+37,Sun,5/18/2025,15:00,Brentford,2,Fulham,3,17136,Gtech Community Stadium,Jarred Gillett
+37,Sun,5/18/2025,15:00,Leicester City,2,Ipswich Town,0,,King Power Stadium,Andrew Kitchen
+37,Sun,5/18/2025,16:30,Arsenal,1,Newcastle Utd,0,60160,Emirates Stadium,Simon Hooper
+37,Mon,5/19/2025,20:00,Brighton,3,Liverpool,2,,The American Express Stadium,Andy Madley
+37,Tue,5/20/2025,20:00,Manchester City,3,Bournemouth,1,,Etihad Stadium,Thomas Bramall
+37,Tue,5/20/2025,20:00,Crystal Palace,4,Wolves,2,24766,Selhurst Park,David Webb
+38,Sun,5/25/2025,16:00,Manchester Utd,2,Aston Villa,0,73839,Old Trafford,Thomas Bramall
+38,Sun,5/25/2025,16:00,Ipswich Town,1,West Ham,3,29771,Portman Road Stadium,Tim Robinson
+38,Sun,5/25/2025,16:00,Wolves,1,Brentford,1,31382,Molineux Stadium,Craig Pawson
+38,Sun,5/25/2025,16:00,Southampton,1,Arsenal,2,31289,St Mary's Stadium,Darren Bond
+38,Sun,5/25/2025,16:00,Liverpool,1,Crystal Palace,1,60382,Anfield,Darren England
+38,Sun,5/25/2025,16:00,Nott'ham Forest,0,Chelsea,1,30263,The City Ground,Anthony Taylor
+38,Sun,5/25/2025,16:00,Fulham,0,Manchester City,2,27671,Craven Cottage,Andrew Madley
+38,Sun,5/25/2025,16:00,Newcastle Utd,0,Everton,1,52221,St James' Park,Tony Harrington
+38,Sun,5/25/2025,16:00,Bournemouth,2,Leicester City,0,11238,Vitality Stadium,Lewis Smith
+38,Sun,5/25/2025,16:00,Tottenham,1,Brighton,4,61449,Tottenham Hotspur Stadium,Robert Jones
