@@ -7,7 +7,7 @@ A complete Football Data Warehouse built in SQL Server, including professional E
 
 ## 🏗️ Technologies
 - SQL Server Management Studio (SSMS)
-- Python 3 / Jupyter Notebook (for report)
+- Jupyter Notebook (for report)
 - CSV files as data source
 - SQL Query Language
 
